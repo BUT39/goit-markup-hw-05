@@ -435,3 +435,6 @@ img {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
+.main-form {
+  display: flex;
+}
