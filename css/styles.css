@@ -620,9 +620,7 @@ img {
   fill: transparent;
 }
 .polisi-link {
-  background-color: #4d5ae5;
-  border: none;
-  fill: #f4f4fd;
+  color: #4d5ae5;
 }
 .button-send {
   border-radius: 2px;
