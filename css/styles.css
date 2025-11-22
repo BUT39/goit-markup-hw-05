@@ -615,12 +615,12 @@ img {
   align-items: center;
   justify-content: center;
   fill: transparent;
-  background-color: #f4f4fd;
-  border: none;
-  fill: #404bbf;
 }
 .input-checkbox:checked + .label-privacy > .policy {
   fill: transparent;
+  border: none;
+  fill: #f4f4fd;
+  background-color: #404bbf;
 }
 .polisi-link {
   color: #4d5ae5;
